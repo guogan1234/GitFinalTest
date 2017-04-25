@@ -1,3 +1,5 @@
 1.Init!!!
 
 2.Append some changes!!!
+
+3.Conflict Copy!!!
